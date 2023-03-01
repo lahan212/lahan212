@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lahane
-- 👀 I’m interested in android studio : androidX, java, kotlin, material design, retrofit, firebase, mlkit, google map
-- 🌱 I’m currently learning laravel, javascript, jquery, bootstrap, php, web service
+- 👀 I’m interested in android studio : androidX, java, kotlin, material design, retrofit, firebase, mlkit, and google api
+- 🌱 I’m currently learning laravel, javascript, jquery, bootstrap, php, and web service
 - 📫 Sosmed : Instagram ~ @lahane_95
 
 <!---
